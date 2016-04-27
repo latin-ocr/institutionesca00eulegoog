@@ -1,0 +1,45 @@
+aanor vn. 147
+
+ciunt ad ostendenlunr,s1 sunslio quaecunque trium variabi-
+lium x, y, 8( z proponatur, utcunque etiam hae variabiles
+inter se suerint permixtae, eius differentiale semper huius·
+modi sormam esse habiturum pdx†qdyl·r·dz: ubi p,q,&r
+suturae srnt singulae sunssiones, vel omnium trium variabili-
+um x,y,& z, vel binarum, vel unius tanturn, prout ratio
+compositionis, qua sunsiio proposita ex variabilibns ῳ, 8( z
+atque. constantibus formatur, suerit comparata. Simili modo,
+sr proponatur sunslio quatuor pluriumve variabilium x,y,z,
+seo, eius differentiale semper huius modi sormam habebit
+
+W†W†m†m.
+
+, 213. Consideremus primunr sunssionern duarum tanturn ·
+
+variabilium κ &y, quae sit ==V, cuius ergo differentiale
+ita se habebit, ut stt dV=pdxl-qdp. Si igitur quantitas
+y assumeretur constans, soret ἆγε-..0, ideoque sunslionis V
+differentiale esset pdx: sin autern x statueretur constans, ut
+esset dx=0, solaquey maneret variabilis, tum ipsius V dis·
+. serenriale prodiret :qdy. Cum igitur utraque quantitate x
+8( y variabili posita stt depdxl· qdy, ista regula pto dis·
+ferentianda surrblione V duas variabiles x 8( y involvente re·
+sultabit: Ponatur primum ¹sola x variabilis, altera vero y
+tanquam conflans crassatur, (9⁹ quaeratur ipsius V differen-
+tiale, quod Jit :pdx. Deinde ponatur sola quantitas y
+variabilis, altera x pro constanti habita, (Ὺ quaeratur ipfius
+V differentialis, quad fir :qdy. Quibus fassis, pofita utra·
+que quantitate x (Ὺ y variabili, fiet dV=pdx †qdy..
+
+214. Simili modo, cunt sunelionis trium variabiliurn
+x, y, 8( z, quae sit =V, differentiale huiusmodi habeat sor·
+mam dvzpdx †qdy†rdz, manifestum est, st sola quantitas
+x suisset variabilis posita, reliquae vero y &aa constarites
+mansissent, ob dy=0 8< dz=o, prodiisset ipsius V diffe-
+rentiale :palan Pari modo inveniretur differentiale ipsius
+qudy, fi x 8( z essent constantes solaque y poneretur va·
+riabilis3 atque sr aa 8( y tanquam constantes trasbarentur sola-
+
+T 2 que
+
+ 
+

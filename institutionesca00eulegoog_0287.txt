@@ -1,0 +1,42 @@
+CAPUTIX. '215
+
+aequationem finitam satisfieri potest, cuiusmodl erat illa
+zdyzydx, quant modo consideravimus. Aequatio autem erit
+realis „ cui aequivalens 'aequatio finita exhiberi potest, quod
+evenit, fi una variabilis aequalis fit certae cuipiam sunslioni
+binarum reliquarum. Cuiusmodi est haec aequatio:
+
+zdy -Ι- yda : xalta -Ι- zela -Ι- ndy ·l·ydtr
+congruit enim haec cum illa aequatione finita:
+
+yzzxz-l-xy fitque κε-Ξ.
+
+Istud ergo discrimen inter huiusmodi aequationes imaginarias
+8( reales diligenriffime est observandum, praecipue in calculo
+integrali, uia ridiculum soret, cuiuspiam aequationis diffe'·
+rentialis velle integralem, hoc est aequationem finitam satis·
+facientem quaerere, quae plane nullam habeat.
+3¹0· Primum igitur patet, omnes aequationes differen-
+tiales trium variabilium, inquibus tantum binarum differen-
+tialia occurrant, else imaginarias& absurdas. Ponamus enim
+in aequatione, quae contineat variabilem z, tantum inesse
+differentialia dx 8( dy , ⁴differentiale autern Δ( prorsus abalim
+atque manifestum erit nullam exhiberi poffe funilionem ipsa·
+rum x 8( y, quae loco z substituta aequationem identicam
+producat, differentialia enim dx 8( dy nullo modo tolentur.
+His ergo casibus omnino nulla datur aequatio finita satiss ·
+ciens: nis1 sorte eiusmodi relatio inter x 8( assignari queat,
+quae quicquid stt z subsistere pollrt, uti fit 111 hac aequatione:¹
+zdy-zdxzydy-xdx, ’
+cui satisfacit aequatio y= x. Facile autem investigatur, qui-
+bus casibus hoc eveniat, quaerendo relationem inter x &y
+primo ἦκτο, &rum an ista relatio aequatiuni pro quo·
+cunque ipsius 'a valore satisfaciat. ,
+311. Neque veto sulum aequatio tres variabiles invo-
+lvens ell absurda, fi duo tantum continet differentialia, sed
+etiam st in ea omnia tria differentialia occurrant, talis esse ‘¹
+
+ΡΟ· 1
+
+ 
+

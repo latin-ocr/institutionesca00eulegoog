@@ -1,0 +1,41 @@
+QCAPUT n. “41
+
+marum quam sequentium deduci poffuntc Cum enim, fiseriei
+terminus primus subtrahatur a secundo, prodeat seriei diffe-
+rentiarum terminus primus: secundus autem, sr ipsrus seriei
+terminus secundus a tertio auferatur, ita seriei differentiarum
+obtinebitur terminus, cuius index est x, fi ipfius seriei
+serotinus, cuius index Ι est x, subtrahatur a sequente cuius ,
+index= est rei-1. Quare stin termino seriei generali lo·-
+co x ponatur ari-1 , ab hocque valore terminus 'gene'
+ralis subtrahatur, remanebit terminus generalis seriei dif-
+ferentiarum: ss igitur X fuerit serici terminus generalis, erit
+eius differentia Δ X, (quae modo. in praecedente capite .
+ostenso invenietur, sr' statuatur ibi ω :1 ) terminus gene·
+ralis seriei differentiarum primarum. Simili igitur m'odo erit
+Δ Δ Χ· terminus generalis seriei differemiartun secundarum-3
+A³X tertiarum, ficque deinceps. -
+50. Quodsr autem terminus generalis d( fuerit sunnio
+rationalis integra, ¹in qua maximus exponens potestatis ipfius
+x fit'n, ex capite praecedente coliigitur, erus· differentiam
+ΔΧ sore saumonem uno gradu inferiorem, nempe gradus
+n— 1. Hincque porro ΔΔΧ erit fimbbio gradus n·ss·2,
+8< A³X sunnio gradus n--3‚=& ita porro. Quare, srX
+suerit fundiio primi gradus, uti axi· b, tum eius differen-
+tia ΔΧ crit constans: a; quae c'um srt terminus. generalis
+seriei primarum differentiarum, perspicitur seriem, euius ter·
+minus generalis X fit sunnio primr gradus, sore arithmeti-
+cam seu primi ordinis. Simili modo fi terminus generalis X
+fuerit sundiio secundi gradus ob Δ Ax constantem, series
+inde orta differentias secundas habebit constantes, 'eritpue
+propterea ordinis seeundi; ficque perpetuu, cuius gradus uc·
+rit fundbio X terminum generalem constituens, eiusdem ordi-
+nis erit series ex eo nata.
+51. Hanc ob rem series potestatum numerorum natu·
+talium ad differentias constantes perveniunt, uti ex sequenti .
+
+schemate fit manifestum. , A , ·
+F ' PO—
+
+ 
+

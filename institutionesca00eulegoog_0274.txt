@@ -1,0 +1,48 @@
+202 CAPUT IX.
+
+&affandi-affixam&
+
+t 289. Ratio huius diverfitatis in hoc consistit, quoti
+quantitatis constantis differentiaie stt =o. Quodfi ergo aequa·
+tio finita ad eiusmodi sormam reducatur, ut quantitas quae·
+piam constans sola adsit, neque per variabiles vel multiplico·
+tut vel dividatur; tum per differentiationem eruetur aequatio,
+in qua illa quantitas constans prorsus non adsit. Hoc modo
+quae ibet quantitas constans, quae in aequationem finitam in·
+graditur, per differmtiationem tolli potest. Sic fi proposita
+tuerit aequatio x³ -Ι- γ3 == 3axy3 stoa pet· try divrdatur ut
+a
+
+habeatur [Hy- : 311, haec aequatio differentiam dabit:
+
+, zxtydx4zxy³dy-x⁴dy-y⁴·dx=0,
+quam constans a amplius non ingreditur.¹
+
+290. Si piures uantitatesconstantes‚ quaein aequatio·
+ne finita insunt, tolii debeant, id fiet per differentiationent
+bis pluriesve repetitam ,· sthue tandem obtinebuntur aequatio·
+nes differentiales altiorum graduum iis constantibus prorsus
+carentes. Sit ⁴proposita haec aequatio. ymon-nux, ex
+qua per differentiationent constantes maa ba n tolli debeant.
+Prima quidem tolletur prima differentiatione, unde fit
+&Li-amq
+xdx
+quae sumto da constante, per differentiationem dabit:
+
+,xyddy†ttdy²-ydxdy=0,
+
+quae etfi nullam constantem compleantur, tamen omnes aei
+quationes in bae forma yy=maa-·nxa contentas, quicunque
+naiores litteris m ‚ n 8( aa tribuantur, in se aeque comprehendit.
+
+291. Non bium vero quantitates constantes, quae in
+aequationem 'finitam ingrediuntur, per differentiationem tolli
+poffuut, secl etiant altera variabilis, eius stilicet2 cuius diffe-
+acntiale constans assumitur, per differentiationem eliminati
+
+ΡΟ·
+
+ydyi-nxdxzoq hinc porro formetur aequatio
+
+ 
+

@@ -1,0 +1,43 @@
+138 CAPUT vn.
+
+duplicem hanc differentiatiouem idem prodibit, ae st ordi·
+ne inverso sonmo V primum pofita sola y variabili differen-
+tiaretur, hocque differentiale posita solax variabili denuo dif-
+ferentiaretur: utroque scilicet casu prodibit eadem expressio
+huius formae dedy. Ratio huius identitatis. ex praecedente
+proprietate manifesto sequitur: fi enim V differentietur posita
+sola x variabili, prodit de3 ἃ, fi V differentietur posita
+lolayvariabili, prodit Qdy, horum differentialium vero dis·
+serentialia modo indicato sumta inter se aequalia elle, ante
+demonstravimus. Ceterum haee indoles immediate sequitur
+ex ratiocinio (§.227) allato.
+
+231. Relatio inter P& Q, fi del-Qdy'lueritdifferen·
+
+tiale funilionis V sequenti etiam modo indicari potest. Quo·
+niam P & Q suut luneiiones ipsarum κ bey, differentieu·
+tur ambae ofita utraque u ιδ( y variabili:
+Si scilieet dierit dv=1>dx÷Qdy
+stt dP=pdx†rdp
+3( olQr-qud-sdy. .
+Posito ergo a constante erit
+duta-dy, ἃ, d.de=rdxdy.
+Deinde positoy constante erit·
+' dQ=qu·‚ 8( ,d.Qrdy=qudy. ·
+Cum igitur haec duo differentialia rdxdy ἃ qudy smt inter
+se aequalia, sequitur lore q=r. Funeriones ergo P 8( Q ita
+invicem connetluntur, utsr ambae differentientur, uti feci·
+mus, quantitates q 8< r' inter se fiant aequales. Brevitatis
+v gratia autem hoe saltem capite quantitates r 8( q ita com-
+
+mode denotari solent, ut r indicetur per Ξ-Ρ), qua scriptura
+
+designatur Ρ ita differentiam, ut solay tanquamvariabilis
+malletur, atque 'differentiales illud per dy. dividatur: stc enim
+
+prodibit 'quantitas finita r.. Simili modo figsslfioebit (ἐξ)
+
+quali·
+
+ 
+

@@ -1,0 +1,45 @@
+ω caput· oc
+
+notari oportet, aequationem finitam tres variabiles com le·.
+cientem determinare relationem, quam unaquaeque ad brnas‘
+reliquas teueat; definitur ergo, qualis sunsito srt z ipsarum
+x dt y. Quemadmodum igitur aequatio huiusmodi finita re·
+solvitur, li reperiatur qualis sundiio ipsarum ae &y loco z
+substitui debeat, ut· aequationi satisfiat, ita quoque aequatio
+differentialis tres variabiles complesiens determinabit, qualia
+sunsiio una stt reliquarum, isque huiusmodi aequationem re*
+solvisse censendus est, qui indicaverit eam binarum variabi-
+lium at δι y sunsiionem, quae loco tertiae z substituta aequa·-
+tioni satisfaciat, seu eam identicam reddat. Aequatio ergo
+differentialis resolvitur, si vel firndiio ipsarum tt &y valo.-
+rem ipsius z ,exhibens definiatur, vel aequatio finita assigne-
+tur, qua idem debitus ipsius z valor exprimatur.
+
+308. Quanquam autem omnis aequatio differentialis
+duas tantum variabiles complesiens, semper determinatam re·
+lationem iuter eas exprimit3 tamen hoc non semper evenit
+in aequationibus· differentiaiibus trium variabilium. Dantur
+enim eiusmodi aequationes, quibus plane nullo modo btisfie·
+
+ri poterit, quaecuuque sunsiio ipsarum ae & y inlocum
+
+ipsius z sub ituatur. Uti st proposita fauerit haec aequatio ’
+zdy :yda sacile patet, nullam prorsus dari sundiiotietn ipsa·
+rtim x 8( y, quae-loco a substituta reddat zdyzydx, disse·-
+rentialia enim dx 8< dy nullo modo extinguentur. Simili
+modo apparet nullutn dari suntiionem ipsarum at ἃ z, quae
+ioco y, ubstituta eidem aequationi satisfaciat. Quaecunque
+enim pro y concipiatur fitndiio ipsarum x 8( z, in eius dis-
+serentiali dy inest da, quod quia in aequatione non inest,
+destrui non poterit. Hancobrem nulla aequatio finita inter
+te‚y,.t}‹ tt dari potesi, quae aequationi differentiali adp-:yda
+convemat. '
+
+309. Hinc aequationes differentiales tres variabiles con·
+tinentes distribui oportet 'in imaginarias dt reales. Huiusmodi
+autem aequatio erit imaginaria seu absurda, cui per nullam
+
+ae‹111²-
+
+ 
+

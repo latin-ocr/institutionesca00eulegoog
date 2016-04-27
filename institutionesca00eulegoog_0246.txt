@@ -1,0 +1,46 @@
+174 CAPUT VIII.
+
+prorsus fignificare; quamobrem tales exprelsrones in calculo
+- occurrere non pollunt. , r
+
+254 Simili modost formula contineat duas lurelve
+variabiles, in eaque occurrant differerrtialia secundi aliiorisve
+gradus, intelligetur valorem determinatum locum habere non
+polle, nist differentiale quodpiam constane statuatur, iis tau·
+tum exeeptis casrbur, quos mox perpendemus. Quum primum
+enim Ida· in quapiam formula inest, quoniam pro variis dil·
+ferentialibus, quae constantia ponuntur, valor ipfius ddx per·-
+etuo variatur, fieri nequit, ut formula statum obtineat va·
+iorem ; hocque idem valet de quovis differentiali altiori ip
+suus, x, atque etiam de differentialibut reliquarum variabilium
+secundis dt altioribus. Sin autem duarum pluriumve variabili·
+um differentialia secunda insint, fieri potest, ut inconstantia
+ab uno oriunda per inconstantiam reliquarum dellruatur3 hinc·
+ue nascitur ille casus, cuius meminimus, quo formula huius·
+moli differentialia secunda duarum pluriumve variabilium in·
+volvens valorem delinitum habere potest, nou obstante quod
+nullum differentiale constant fit pofitum. .
+
+. ⁸ 255. Haec igitur formula Qssffl, statamatque ⁰
+
+fixam fignificationem habere nequit, nisr quodpiam differem·
+tiale primum qqulqans statuatur. Nam sr dx constans pontt·
+
+dxdy '
+
+tur ἐξῆ manifestum autern est hat formulae nou necell'a·
+
+rio inter se ell’e aequales. Si enim necessario efl‘ent aequa·
+les, tales manere deberent, quaecunque furato ipliue x lo-
+co y substitueretur. Ponamut tantum else ‘y :xm 8< cum
+'‘df-l- aarum
+dxdy ·
+
+tur habebitur sinautem dy cbustans ponatur, habebi
+
+polito dn conlldnte, srt day-..2- κάκ’, formula
+
+ln
+
+ 
+

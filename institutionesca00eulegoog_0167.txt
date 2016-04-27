@@ -1,0 +1,46 @@
+CAPUTIV. 95
+
+Quare st differentiale propositum fuerit infinite parvum ordi· “
+
+nis n, eius integrale erit infinite parvum ordinis n-1;
+·, hincque uti differentiando ordo infinite parvorum augetur, ita
+integratione ad ordines inferiores progredimur, donec ad i sas
+quantitates linitas erveniamtts. Sin autem quantitates finitas
+
+denuo integrare veiimus, tunt secundum hanc legem pervenie-
+mus ad quantitates infinite magnas, ab harumque integratio· ¹
+ne instituta ad quantitates adhuc infinities maiores, sicque
+proorodiendo obtinebimus similes infinitorum ordines, quorum
+quisque praecedentem infinities stt‘pqrat.
+
+ι44. Superest ut in hoc pite quaedam de usu ligno·
+rum recepto moneamus, ne ambiguitati ullus locus relinqua-v
+tur. Ac primo quidem signum differentiationis d tantum affi-
+cit litteram immodr‘ate sequentem solam: stc dm non denotat
+diffetmtiale produnt rap, sed differentiale ipsius tr peripsam
+quantitatemy multiplicatum. Solet autem, quominus confuto
+nasottur, quantitasy ante signum d hoc modo scribi yde,
+quo produslum ert y in de indicatur. Attamen sr y 'stt uenti
+tas vel sgnum radicale ν vel logarithmicum habens prociarum,
+turn post differentiale poni solet: nimirum dtts(aa···-xe) st·
+gnificat produsium ex quantitate finita affra-ex) in disserena
+tiale dx, similique modo dxc(1†x) est produsium ex loga·
+rithmo quantitatis slat, per dra multiplicato. Ob eandem
+rationem ddyt'ra exprimit produslum differentialis secundi
+day δι quantitatis linitae clx.
+
+145. Neque vero lignum d litteram irnrrrediate sem
+tem solam afficit, sed etiarn nequidem exponentem, st qctem
+habet, speslat. Ita dx' non exprimit differentiale ipsius κῆ·
+led quadratum differentialis ipstus rr, ita ut exponens a non ·
+ad x, sed ad da· referti debeat. Posset etiam scribi dada,
+quemadmodum produslum duorum' differentialium dar dc dy
+boc modo dxdy exponitur, veiam ior modus ded, uti eli
+brevior, ita usitatior. Praesertim falsiores potestates ipsius
+dar essent indicandae, nimis prolixum soret dre toties repeti:
+stc dx³ denotat emuna ipfius dx, & iu differentialibus altio
+
+rum
+
+ 
+

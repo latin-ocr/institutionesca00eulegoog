@@ -1,0 +1,40 @@
+¹45
+
+CAPUT. vlt:
+
+ou oraraRENTtATrouu functionum
+ouAs PLURESVE VArtrAatuus mastauron.
+
+208.
+
+Si duae pluresve quantitates variabiles x, y, a a se invicem
+prorsus non pendeant, fieri potest, ut etiamst omnes smt va-
+, riabiles, tamen dum una crescit decrescitve, reliquae maneant
+invariatae: quia enim nullum nexum inter se habere ponun-
+tur, immutatio unius reliquas non afficit. Neque ergo diffe-
+reutialia quantitatum y &apendebunt a differentiali ipsius
+x; ideoque dum x differentiali suo dx augetur,¹ quantitates y
+8( z, vel eaedem manere, vel quomodocunque pro lubitu
+variari potsunt. Quodsi igitur differentiale quantitatis x statua·
+tur dx, reliquarum quantitatum differentialia dy 8( dz manent
+indeterminata, atque pro arbitrio nostro vel prorsus nihil , vel
+infinite parva ad de quamvis ⁴rationem tenentia denotabunt.
+
+209. Plerumque autem litterae y 8( a funsliones ipsius
+u vel incognitas, vel quarum relatio ad a non speciatur,
+significare solent, hocque casu earum differentialia dy 8( da
+certam ad du relationem habebunt. Sive autema 8( z pen·
+deant ab a slve secus, ratio differentiationis, quam hic spe·
+stamus, eodem redit. Quaerimus euim. sutrllionis,'quae ex
+pluribus variabilibus x,y,8<z utcunque sit formata, dissertu-
+tiale, quod accipit, dum smgulae variabiles x,y,&z suis
+differentialibus du,dy,&dz crescunt. Ad hoc ergo invenien-
+dum in sunslione proposita ubique loco variabilium quantita-
+tum. a,y,z scribatur respeslive x÷.dx;y÷dr;z÷dz, 8( ab
+expressione hoc modo resultante auferatur ipsa fundlio propo·
+sita: residuum dabit ipsunt differentiale.. quod quaeritur,
+
+· que-
+
+ 
+

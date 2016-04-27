@@ -1,0 +1,43 @@
+130 cAeur Vn.
+
+do etiarn a se invicem pendere, propterea quod utraque ab
+eadem sunslione' V pendet. Quicunque igitur sit iste nexus
+inter quantitates linitas P 8( Q, quem deinceps investigabi-
+mus, erspieuum est, non omnes lormulas differentiales hu·
+iusmodi de†Qdy, in quibus P 8( Ω pro lubitu fint ex
+a 8( p formatae, posse esse differentialia cuiuspiam suntlionis
+linitae V ipsarum a 8( y. Nisa enim ea relatio inter functio-
+nes P 8( Q intercedat, qnam natura differentiationis requi·
+rit, huiusmodi differentiale del-Qdy oriri plane per diffe-
+rentiationem non potuit, ideoque viciffim integrale non ha·
+bebit.
+
+218. In integratione igitur plurimum interest nosse
+hanc relationem inter quantitates P 8( Q, ut differentialia,
+uae revera ex differentiatione sunslionis cuiuspiam finitae
+sunt orta, dignosci queant ab iis, qnae ad libitum· sunt sor-
+mata, atque nulla integralia admittunt. Quanquam autem hic
+nondum integrationis negotium suscipimus, tamen ad naturam
+differentialium realium penitius inspiciendam conveniet hanc
+relationem investigari5 quippe cuius cognitio non solum ad
+calculum integralem, ad quem hic viam paramus, est maxi·
+me necessaria, sed etiam in ipso calculo differentiali insignem
+lucem accendit. Primum igitur patet, fi V stt sunslio dua-
+tum variabilium x& y, in eius differentiali Palati-Qdy
+utriusque differentiale dx 8( dy inesse oportere. Neque ergo
+potest else P=0 neque Q=o. Hinc li P suerit sunslio
+ipsarum x 8( y, sormula ’ Pda nullius quantitatis finitae po·
+terit else differentiale, seu nulla extat quantitas finita, cuius
+· differentiale fit de. ⁴
+
+219. Sic nulla datar quantitas linita V five algebraica
+stne transcendens, cuius differentiale stt yxdx, siquidem stt
+yquantitas variabilis ab x non pendens. Si enim ponamus
+dari eiusmodi quantitatem finitam V, quia y in eius disse-
+rentiale ingreditur, necesse est, uty quoque in ipsa quantitate
+V ins1t; venenas V contineret y, ob variabilitatem ipsios y· ’
+
+ne·
+
+ 
+

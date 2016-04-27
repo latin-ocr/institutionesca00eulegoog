@@ -1,0 +1,43 @@
+CAPUTJ. 5
+
+Ι 4. Hic autem potissimum nd differentias, quibus termi-
+mi seriei y, y¹ 3 7¹1,y111‚ &e inter se dicrepant, at·
+tendimus3 quas ut ad differentialium naturam accomodemus,
+sequentibus fignis indicemus, ut sit ·
+7¹ -7=Ar; r¹¹···r¹ :Arm 7¹¹¹ -r¹¹=Ar¹¹; &n
+' Exprimet ergo Δ y incrementun , quod funuioy capit, ti
+in ea loco e ponatur u ξΙ-ω, denotante ω numerum quem·
+cunque pro iubitu offirmtum. In doetrina quidem seriorum
+sumi solet o=13 vorum bie nd noibum institutum ex ·
+dit, valore generali uti, ‚qui pro arbitrio au idiminurve
+queat. Vocari quoque solet hoc incrementum y funbiionis
+y eius DIFFERENTIA, que sequent valor γι primumy
+superat, atque perpetuo tanquam incrementum confidemtur3
+etiamst saepius re vere decrementum exhibeat, id· quod ex
+eius valore negativo agnoscitur.
+
+5. Quoniam y¹1 oritur exy, st loco e scribatur
+u μω ; manifestum est eandem¹ quantitatem effe orituram
+fi primum pro e ponatur x -Ι- o, tumque denuo n†o loco
+u statuatur. Hine 7¹¹ orietur ex y1, st in hoc loco
+tt scribatur eq· ω 3 eritque ideo Δ y¹ incrementum ipfius 7¹
+quod capit posito sti-ro loco e3 sicque Δ y¹ vooetur fi-
+mili modo Differemia ipsius 7¹· Pari ratione porro erit
+Δ y¹¹ differentia ipsius 7¹¹, seu eius incrementum, quod
+accipit, st loco n ponatur e4o3 atque ·Ay¹¹¹ erit differen-
+tia, seu incrementum ipsius 7111, 8< ita porro. Hoc pabio
+ex serie valorum ipsius y, qui sunt y3 st 3 y1¹3y¹¹1.3&c.
+obtinebitur serien differentiarum Ay3 Δ y¹ 3 Δ y¹13 &equae
+inveniuntur, fi quilibet terminus illius seriei a sequente sub·
+tralutur.
+
+6. invente serie differentiarum, fi ex eo denuodifferen·
+tiae capiantur, quamlibet e sequente subtrahendo, orientur
+differentiae differentiarum, quae ‚vocantur Diffusum secum
+dae3 hocque modo· per cineum convenientium repraesen-
+tantm,uts1gnificet: . · ,
+
+, Δ Δ y
+
+ 
+

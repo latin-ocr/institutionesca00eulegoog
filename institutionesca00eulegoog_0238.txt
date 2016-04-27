@@ -1,0 +1,43 @@
+166
+
+CAPUT vna,
+
+DE FORMUZARUM DIFFERENTIALIUM
+narrarunt DIFFERENTIATJONE.
+
+242.
+
+Si unica variabilis adfit, eiusque differentiale primum con·
+stans assumatur, supra iam methodus est tradita differentialia
+cuiusque gradus inveniendi. Scilicet fi suneliunis cuiusvis diffe-
+rentiale denuo differentietur, oritur eius differentiale secun·
+dum, hocque iterum differentiarum dat sunllionisdifferentiale
+tertium ,' atque ita porro. Haec vero eadem regula locum
+quoque habet, live fuullio plures involvat variabiles slve
+unicam tantum, cuius differentiule primum nun ponitur con·
+liant. Sit igitur V sunnio quaecunque ipsius x, neque vero
+dx stt constans, sed utcunque variabile, ita ut ipsius dx dil-
+serentiale fit zunta, huiusque differentiale :d³x‚ 8< ita
+portu, atque investigemus differentialia secundum a sequentia
+funllionis V.
+
+243. Ponamus dillerentiale primum‘luul'lionis Velle
+
+:de, ubi erit P functio quaepiam ipsius x pendens ab V.
+Si iam luneiionis V differentiale secundum invenire velimus,
+eius differentiale primum de denuo differentiiri oportet;
+quod curn fit produllum ex duabus quantitatibus variabilibus
+
+P 8< dx, uarum illius differentiale lat drama, huius
+vero dx diierentiale ddx, per 'regulam de fauoribus datam
+erit differentiale secundum ddv=l>ddx÷pdx². Deinde fi
+ponatur dp=qu‚ cum differentiale ipsius ἐπ’ fit adalae,
+erit iterum differentiando
+d³ v=1²d³ x÷d1²ddx÷2pdxddx÷ ludat‘ ‚
+iarn ob szpdx & dpzqu3 erit
+, “ d³Vde³x÷3pdxddx-l·qu³,
+
+similique modo ulteriora differentialia invenientur.
+
+ 
+

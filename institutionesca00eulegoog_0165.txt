@@ -1,0 +1,45 @@
+CAPUTJV. 93 .
+
+notat operationem, qua differentialia inveniuntur} Hinc calcu-
+'lus differentialis quoque vocatur methodus differentiandi,scum
+modum differentialia inveniendi contineat.
+
+139. Quemadmodum in calculo differentiali cuiusvis quonti-
+tatis differentiale investigatur, ita vicilltm calculi species consti· ,
+tuitutquoque iu inventione eius quantitatis, cuiusdifferentiale
+proponitur,qui caloulus integralis vocatur. Sienim proposrtum
+fuerit differentiale quodcunque, eius respeeiu ea quantitas, cu·
+ius est differentiale, vocari solet integrale. Cuius denomina-
+tionis ratio est, quod, cum differentiale considerari poliat,
+tanquam pars infinite arva, qua quantitas quaepiam crescit,
+ipsa illa uantitas relineflu huius partis tanquam totum seu
+integrum ipeelari potest, hancque ob causam eius vocatur ·
+integrale. Sic cum dy fit differentiale ipsius y, viciffimy
+etit integrale ipfius dy,& cum ddy stt differentiale ipiius
+d y, erit d y integrale ipsius ddy, similique modo erit dely
+integrale ipstus d3y, δι d³ y ipsrus Α* y 8< ita porro: unde
+quaelibet differentiatio, sr inverse speilatur, integrationis
+exemplum exhibet. , ·
+
+140. ⁵Origo 8< natura integralium pariter ac differen-
+tialium ciariffime ex differentiarum finitarum domina in
+capite primo expofita ex litari potest. Postquam enim effer
+oltensum, quomodo cuiuiique quantitatis differentiam inveniri
+oporteat, retrogrediendo quoque monstravimus, quomodo, st
+proposita suerit differentia, ea quantitas inveniri queat, cuius
+‚rlla fit differentia3 quam quantitatem respeilu suae differentiae
+vocavimus eius summam. Uti igitur ad infinite rua proce· ⁴
+dendo differentiae in differentialia abierunt ,lita iiinme quae
+ibi erant vocatae, integralium nomen sortiuntur: 8< hanc ob
+caulam integralia quoque non raro summae appellari solent.
+Angli qui differentialia fluxiones nominant, integralia vocant
+quantitates fluentes3 eorumque loquendi more datae fluxionis
+fluentem invenire, idem est, quod nostro more dati aiffa.
+rentialis 'integrale invenite dicimus. ¹
+
+141. Uti differentialie charailere d deignamus, 'ita ad
+
+111·⁴
+
+ 
+
